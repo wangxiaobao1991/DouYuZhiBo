@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>E61713FC-8905-4C01-8EC4-71ACF017EF28</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Douyuzhibo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>08AA8C2CC910DEAF06D6C658DCF75D927D0E880E</key>
+		<string>https://github.com/wangxiaobao1991/DouYuZhiBo</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Douyuzhibo/Douyuzhibo.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>08AA8C2CC910DEAF06D6C658DCF75D927D0E880E</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/wangxiaobao1991/DouYuZhiBo</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>08AA8C2CC910DEAF06D6C658DCF75D927D0E880E</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>08AA8C2CC910DEAF06D6C658DCF75D927D0E880E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>DouYuZhiBo</string>
+		</dict>
+	</array>
+</dict>
+</plist>
